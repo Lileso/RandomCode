@@ -1,4 +1,4 @@
-#imports the required librarys if it fails saying can't import then do "pip install requests" and "pip install json" from the command line
+#imports the required librarys if it fails saying can't import then do "pip install requests" from the command line
 import requests, json
 from datetime import datetime
 url = "http://ip-api.com/json" #Enter the web address before the "#"
